@@ -1,0 +1,37 @@
+.table {
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: Arial;
+}
+
+.table-block {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    background-color: #717171;
+}
+
+
+.table-content {
+    margin-left:20px;
+}
+
+
+.car-id {
+    width: 80px;
+    text-align: start;
+    font-size: xxx-large;
+}
+
+
+.car-model {
+    width: 300px;
+}
+
+.features {
+    width: 400px;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: large;
+}
